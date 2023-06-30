@@ -18,7 +18,7 @@ MarkupSafe==1.0
 namedlist==1.7
 olefile==0.44
 Pillow==4.2.1
-pipreqs==0.4.9
+pipreqs==0.4.12
 py==1.4.34
 pytest==3.2.3
 PyVirtualDisplay==0.2.1
