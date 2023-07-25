@@ -2,7 +2,7 @@ flaky
 graphene==2.0
 allure-pytest==2.2.3b1
 backports.functools-lru-cache==1.4
-certifi==2017.4.17
+certifi==2023.7.22
 chardet==3.0.4
 colorama==0.3.9
 configparser==3.5.0
